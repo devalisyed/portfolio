@@ -125,7 +125,7 @@ nav a {
 
 .header {
     display: flex;
-    height: 60vh;
+    height: 50vh;
     align-items: center;
     min-height: 800px;
     max-height: 800px;
