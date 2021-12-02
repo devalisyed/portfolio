@@ -471,11 +471,12 @@ footer svg:hover {
     }
 } */
 
-@media (max-width: 518px) {
+
+/* @media (max-width: 518px) {
     .nav ul {
         gap: 4.5rem;
     }
-}
+} */
 
 @media (max-width: 925px) {
     html {
@@ -584,7 +585,7 @@ footer svg:hover {
         font-size: 2.25rem;
     }
     .text__box-3 h2 {
-        font-size: 2.45rem;
+        font-size: 2.65rem;
     }
     .nav {
         justify-content: center;
@@ -593,11 +594,8 @@ footer svg:hover {
         display: none;
     }
     .nav ul {
-        gap: 4.5rem;
+        /* gap: 4.5rem; */
     }
-    /* .nav li {
-        font-size: 1.4rem;
-    } */
 }
 
 @media (max-width: 340px) {
