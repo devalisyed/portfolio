@@ -405,6 +405,7 @@ nav a {
 }
 
 .section__contact button {
+    width: 25%;
     border: none;
     cursor: pointer;
     font-weight: 600;
