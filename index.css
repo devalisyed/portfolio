@@ -125,7 +125,7 @@ nav a {
 
 .header {
     display: flex;
-    height: 90vh;
+    height: 80vh;
     align-items: center;
     /* min-height: 800px;
     max-height: 800px; */
@@ -405,7 +405,7 @@ nav a {
 }
 
 .section__contact button {
-    width: 25%;
+    width: 10rem;
     border: none;
     cursor: pointer;
     font-weight: 600;
@@ -591,6 +591,9 @@ footer svg:hover {
     }
     .nav h1 {
         display: none;
+    }
+    .nav ul {
+        gap: 3rem;
     }
     /* .nav li {
         font-size: 1.4rem;
