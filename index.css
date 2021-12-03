@@ -167,7 +167,7 @@ nav a {
     font-weight: 800;
     font-size: 2.45rem;
     color: var(--color-primary);
-    transform: translateY(4.45rem);
+    transform: translateY(3.45rem);
     transition: all 0.3s;
 }
 
