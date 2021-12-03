@@ -595,7 +595,7 @@ footer svg:hover {
         display: none;
     }
     .nav ul {
-        /* gap: 4.5rem; */
+        gap: 5rem;
     }
 }
 
