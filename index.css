@@ -595,7 +595,7 @@ footer svg:hover {
         display: none;
     }
     .nav ul {
-        gap: 5rem;
+        gap: 4rem;
     }
 }
 
@@ -612,7 +612,7 @@ footer svg:hover {
         font-size: 2rem;
     }
     .nav ul {
-        gap: 2.35rem;
+        gap: 2.5rem;
     }
     .row {
         padding: 0 3rem;
