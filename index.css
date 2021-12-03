@@ -562,7 +562,7 @@ footer svg:hover {
     .section__work h1,
     .section__about h1,
     .section__contact h1 {
-        font-size: 3.65rem;
+        font-size: 3.55rem;
     }
 }
 
@@ -589,7 +589,7 @@ footer svg:hover {
         font-size: 2.45rem;
     }
     .text__box span {
-        font-size: 1.45rem;
+        font-size: 1.65rem;
     }
     .nav {
         justify-content: center;
