@@ -579,11 +579,11 @@ footer svg:hover {
 @media (max-width: 475px) {
     .text__box h1 {
         font-size: 2.2rem;
-        line-height: 1.5;
+        line-height: 1;
     }
     .text__box h2,
     .text__box a {
-        font-size: 2.25rem;
+        font-size: 2rem;
     }
     .text__box-3 h2 {
         font-size: 2.65rem;
@@ -592,13 +592,13 @@ footer svg:hover {
         font-size: 1.85rem;
     }
     .nav {
-        /* justify-content: center; */
+        justify-content: center;
     }
     .nav h1 {
         display: none;
     }
     .nav ul {
-        gap: 4rem;
+        gap: 4.5rem;
     }
 }
 
