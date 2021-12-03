@@ -628,7 +628,7 @@ footer svg:hover {
     }
 }
 
-@media (max-width: 340px) {
+@media (max-width: 350px) {
     .text__box h1 {
         font-size: 2rem;
         line-height: 1.5;
