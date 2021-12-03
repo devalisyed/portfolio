@@ -600,6 +600,9 @@ footer svg:hover {
     .nav ul {
         gap: 4.5rem;
     }
+    footer p {
+        1.5rem
+    }
 }
 
 @media (max-width: 340px) {
