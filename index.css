@@ -480,7 +480,7 @@ footer svg:hover {
 
 @media (max-width: 1000px) {
     .content-box {
-        gap: 5rem;
+        gap: 4rem;
         flex-direction: column;
         align-items: flex-start;
     }
