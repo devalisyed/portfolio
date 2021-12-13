@@ -308,7 +308,7 @@ nav a {
     display: flex;
     gap: 5rem;
     flex-direction: column;
-    max-width: 70rem;
+    max-width: 75rem;
 }
 
 .text__box-3 h2 {
