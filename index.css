@@ -148,16 +148,16 @@ nav a {
 }
 
 .text__box h2 {
-    font-weight: 600;
-    font-size: 3.45rem;
+    font-weight: 400;
+    font-size: 2.85rem;
     color: var(--color-primary);
 }
 
 .text__box a {
     line-height: 0;
     cursor: pointer;
-    font-weight: 600;
-    font-size: 3.45rem;
+    font-weight: 400;
+    font-size: 2.85rem;
     color: var(--color-secondary);
     transition: all 0.3s;
 }
