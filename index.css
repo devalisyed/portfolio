@@ -137,7 +137,7 @@ nav a {
     flex-direction: column;
     justify-content: flex-start;
     transform: translateY(-5rem);
-    max-width: 120rem;
+    max-width: 110rem;
 }
 
 .text__box h1 {
@@ -164,7 +164,7 @@ nav a {
 }
 
 .text__box p {
-    font-weight: 400;
+    font-weight: 200;
     font-size: 4.45rem;
     color: var(--color-primary);
     transform: translateY(2.45rem);
