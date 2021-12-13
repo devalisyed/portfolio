@@ -171,12 +171,12 @@ nav a {
 }
 
 .text__box p span::after {
-    z-index: 0;
+    z-index: 5;
     content: "";
     height: 10px;
     width: 50px;
     display: inline-block;
-    transform: translateX(-3rem);
+    transform: translateX(-5rem);
     background-color: var(--color-secondary);
 }
 
