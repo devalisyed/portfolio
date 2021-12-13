@@ -26,7 +26,7 @@ html {
 body {
     overflow-x: hidden;
     font-family: "Livvic", sans-serif;
-    font-family: "Jost", sans-serif;
+    /* font-family: "Jost", sans-serif; */
     background-color: var(--color-white);
 }
 
@@ -288,7 +288,7 @@ nav a {
 }
 
 .text__box-2 h2 {
-    font-weight: 600;
+    font-weight: 500;
     font-size: 2.45rem;
     color: var(--color-primary);
 }
