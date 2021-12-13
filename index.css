@@ -137,7 +137,7 @@ nav a {
     flex-direction: column;
     justify-content: flex-start;
     transform: translateY(-5rem);
-    max-width: 60rem;
+    max-width: 150rem;
 }
 
 .text__box h1 {
