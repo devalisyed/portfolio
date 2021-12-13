@@ -157,14 +157,14 @@ nav a {
     line-height: 0;
     cursor: pointer;
     font-weight: 400;
-    font-size: 4.45rem;
+    font-size: 3.45rem;
     color: var(--color-secondary);
     transition: all 0.3s;
 }
 
 .text__box p {
     font-weight: 300;
-    font-size: 4.45rem;
+    font-size: 3.45rem;
     color: var(--color-primary);
     transform: translateY(2.45rem);
 }
