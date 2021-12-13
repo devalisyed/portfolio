@@ -529,14 +529,17 @@ footer svg:hover {
 
 @media (max-width: 550px) {
     .text__box h1 {
-        font-size: 3.65rem;
+        font-size: 4.65rem;
     }
     .text__box h2,
     .text__box a {
-        font-size: 2.85rem;
+        font-size: 3.85rem;
     }
     .text__box-3 h2 {
         font-size: 3.25rem;
+    }
+    .text__box p {
+        font-size: 2.25rem;
     }
     .section__work h1,
     .section__about h1,
