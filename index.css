@@ -163,6 +163,8 @@ nav a {
 }
 
 .text__box p {
+    display: flex;
+    align-items: center;
     font-weight: 300;
     font-size: 4.45rem;
     color: var(--color-primary);
@@ -172,8 +174,8 @@ nav a {
 .text__box p::before {
     content: "";
     display: inline-block;
-    height: 2px;
-    width: 5rem;
+    height: 5px;
+    width: 10rem;
     background-color: var(--color-secondary);
 }
 
