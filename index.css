@@ -288,7 +288,7 @@ nav a {
 }
 
 .text__box-2 h2 {
-    font-weight: 500;
+    font-weight: 600;
     font-size: 2.45rem;
     color: var(--color-primary);
 }
@@ -313,7 +313,7 @@ nav a {
 
 .text__box-3 h2 {
     font-size: 4.45rem;
-    font-weight: 800;
+    font-weight: 700;
     color: var(--color-primary);
 }
 
