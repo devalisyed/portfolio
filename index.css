@@ -149,7 +149,7 @@ nav a {
 
 .text__box h2 {
     font-weight: 400;
-    font-size: 4.45rem;
+    font-size: 3.45rem;
     color: var(--color-primary);
 }
 
@@ -164,7 +164,7 @@ nav a {
 
 .text__box p {
     font-weight: 300;
-    font-size: 3.45rem;
+    font-size: 4.45rem;
     color: var(--color-primary);
     transform: translateY(2.45rem);
 }
