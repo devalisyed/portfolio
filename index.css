@@ -163,28 +163,11 @@ nav a {
     transition: all 0.3s;
 }
 
-.text__box span {
-    opacity: 0.5;
+.text__box p {
     font-weight: 400;
     font-size: 4.45rem;
     color: var(--color-primary);
     transform: translateY(2.45rem);
-    transition: all 0.3s;
-    display: flex;
-    align-items: center;
-}
-
-.text__box span::before {
-    content: "";
-    display: inline-block;
-    width: 10rem;
-    height: 3px;
-    background-color: var(--color-secondary);
-}
-
-.text__box span:hover {
-    color: var(--color-secondary);
-    opacity: 1;
 }
 
 
