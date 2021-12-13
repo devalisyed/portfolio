@@ -141,7 +141,7 @@ nav a {
 }
 
 .text__box h1 {
-    line-height: 1.25;
+    line-height: 1.05;
     font-weight: 400;
     font-size: 11.45rem;
     color: var(--color-primary);
