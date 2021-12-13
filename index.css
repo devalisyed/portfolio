@@ -576,6 +576,9 @@ footer svg:hover {
     .nav {
         justify-content: space-between;
     }
+    .nav ul {
+        gap: 8.5rem;
+    }
     .nav h1 {
         display: none;
     }
