@@ -137,11 +137,11 @@ nav a {
     flex-direction: column;
     justify-content: flex-start;
     transform: translateY(-5rem);
-    max-width: 150rem;
+    max-width: 120rem;
 }
 
 .text__box h1 {
-    font-size: 9.45rem;
+    font-size: 12.45rem;
     font-weight: 300;
     color: var(--color-primary);
     line-height: 1;
