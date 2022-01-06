@@ -105,7 +105,7 @@ nav button {
 .nav li {
     opacity: 1;
     list-style: none;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 1.55rem;
     letter-spacing: 0.2rem;
     color: var(--color-primary);
